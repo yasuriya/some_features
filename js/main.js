@@ -86,6 +86,8 @@ window.addEventListener('DOMContentLoaded', function () { // script's work start
         }
     };
 
+    
     setClock('timer', deadline);
-});
+}); 
+
 
